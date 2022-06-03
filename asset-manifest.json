@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TTE-Enc/static/css/main.0fb70ba2.css",
+    "main.js": "/TTE-Enc/static/js/main.a6bc56c3.js",
+    "static/js/377.249f8aba.chunk.js": "/TTE-Enc/static/js/377.249f8aba.chunk.js",
+    "index.html": "/TTE-Enc/index.html",
+    "main.0fb70ba2.css.map": "/TTE-Enc/static/css/main.0fb70ba2.css.map",
+    "main.a6bc56c3.js.map": "/TTE-Enc/static/js/main.a6bc56c3.js.map",
+    "377.249f8aba.chunk.js.map": "/TTE-Enc/static/js/377.249f8aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb70ba2.css",
+    "static/js/main.a6bc56c3.js"
+  ]
+}
